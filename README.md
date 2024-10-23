@@ -1,55 +1,54 @@
-## Hi there 👋
+<h3>Hi 👋, I'm Carlos Conde Vicente,a student of Computer Engineering at the University of Salamanca.</h3>
 
-I'm conde03, a passionate developer with a keen interest in various programming languages and technologies. Welcome to my GitHub profile!
 
----
+  - 🌱 I am currently carrying out projects to improve my skills
 
-### 🛠️ Technologies & Tools
+</br>
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 
-### 🔭 Projects & Contributions
+## 🖥️​ Languages and Tools:
 
-- **CodeMentorAI**: Developing an AI-assisted platform for programming exercises.
-- **Open Source Contributions**: Actively contributing to various open source projects.
+  <h6>Lenguajes</h6>
+  
+![C](https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black) 
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black) 
+![css](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 
-### 🌱 Currently Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=black) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black) 
 
-- Advanced Machine Learning Algorithms
-- Cloud Computing with AWS
+  <h6>Tools</h6>
 
-### 👯 Looking to Collaborate On
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+![Visual Studio COde](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white&labelColor=black)
 
-- Open source projects
-- Innovative AI and ML projects
 
-### 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
+</br>
 
-### ⚡ Fun Fact
+## 📞 Contact with me:
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/conde-carlos/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=black" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/conde__03/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black" alt="Instagram">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black" alt="Discord">
+  </a>
+</div>
 
-I love solving complex algorithms and enjoy playing chess in my free time!
+</br>
 
----
 
-Feel free to explore my repositories and get in touch if you want to collaborate on any exciting projects!
-
-[![GitHub followers](https://img.shields.io/github/followers/conde03?label=Follow&style=social)](https://github.com/conde03)
-
----
-
-You can edit and update your README file [here](https://github.com/conde03/conde03/edit/main/README.md).
