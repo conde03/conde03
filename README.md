@@ -20,10 +20,9 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=black) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=black) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black) 
+
 
   <h6>Tools</h6>
 
